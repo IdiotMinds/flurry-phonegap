@@ -1,25 +1,25 @@
 {
-    "version": "0.0.1",
-    "name": "in.flurry.plugins.flurry",
-    "cordova_name": "Flurry Analytics",
-    "description": "Add Flurry Analytics to phonegap",
-    "license": "MIT",
-    "repo": "https://github.com/IdiotMinds/flurry-phonegap.git",
-    "issue": "https://github.com/IdiotMinds/flurry-phonegap/issues",
-    "keywords": [
-        "analytics",
-        "flurry",
-        "IdiotMinds",
-		"Phonegap"
-    ],
-    "platforms": [
-        "android",
-        "ios"
-    ],
-    "engines": [
-        {
-            "name": "cordova",
-            "version": ">=3.0"
-        }
-    ]
+  "version": "0.0.2",
+  "name": "in.flurry.plugins.flurry",
+  "cordova_name": "Flurry Analytics",
+  "description": "Add Flurry Analytics to phonegap",
+  "license": "MIT",
+  "repo": "https://github.com/IdiotMinds/flurry-phonegap.git",
+  "issue": "https://github.com/IdiotMinds/flurry-phonegap/issues",
+  "keywords": [
+    "analytics",
+    "flurry",
+    "IdiotMinds",
+    "Phonegap"
+  ],
+  "platforms": [
+    "android",
+    "ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0"
+    }
+  ]
 }
