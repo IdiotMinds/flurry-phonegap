@@ -1,6 +1,6 @@
 {
-  "version": "0.0.6",
-  "name": "in.flurry.plugins.flurry",
+  "version": "0.1.4",
+  "name": "com.flurry.plugins.flurry",
   "cordova_name": "Flurry Analytics",
   "description": "Add Flurry Analytics to phonegap",
   "license": "MIT",

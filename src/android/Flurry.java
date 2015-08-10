@@ -1,4 +1,4 @@
-package in.flurry.plugins.flurry;
+package com.flurry.plugins.flurry;
 
 import java.util.HashMap;
 import java.util.Iterator;
